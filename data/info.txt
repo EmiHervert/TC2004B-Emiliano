@@ -1,0 +1,22 @@
+INFORMACIÓN PERSONAL - TC2004B
+
+Nombre: Emiliano Hervert de la Cruz
+Matrícula: A01412606
+Carrera: Ingeniería en Ciencia de Datos y Matemáticas
+Semestre: 4to
+
+¿Por qué tomé este curso?
+Me interesan las matemáticas, la estadística y su aplicación para el análisis de grandes cantidades de datos con el objetivo de lograr tomar mejores decisiones.
+
+¿Qué espero aprender?
+Espero aprender más sobre la ciencia de datos y cómo hacer uso de mis conocimientos, habilidades y herramientas en un contexto real.
+
+Herramientas que ya conozco:
+- R
+- Python
+- MATLAB
+- Google Colab
+
+Herramientas nuevas para mí:
+- Scikit-learn
+- GitHub
