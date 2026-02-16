@@ -1,3 +1,19 @@
+# Ambientes virtuales
+venv/
+env/
+tc2004b_env/
+.venv
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints
+
+# Sistema
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
