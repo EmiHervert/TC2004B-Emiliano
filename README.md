@@ -42,7 +42,7 @@ git clone https://github.com/EmiHervert/TC2004B-Emiliano.git
 cd TC2004B-Emiliano
 ```
 
-#### 2. Crear ambiente virtual
+#### 2. Crear y activar ambiente virtual
 
 **Mac/Linux:**
 ```bash
@@ -61,13 +61,20 @@ tc2004b_env\Scripts\Activate.ps1
 pip install -r requirements.txt
 ```
 
-#### 4. Ejecutar Jupyter
+### Probar localmente
+
+#### 1. Ejecutar Jupyter
 ```bash
 jupyter notebook
 ```
 
-Navega a `notebooks/` y abre el .ipynb
-Ve a Kernel → Restart & Run All para verificar que todo funcione
+#### 2. Hacer una prueba
+Para verificar que todo funcione correctamente haz lo siguiente:
+- Navega a `notebooks/`
+- Abre el .ipynb
+- Ve a Kernel → Restart & Run All
+
+Una vez que todo funcione, puedes cerrar Jupyter con Ctrl+C en la terminal.
 
 ### Desactivar ambiente
 ```bash
