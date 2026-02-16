@@ -83,6 +83,10 @@ deactivate
 
 ### Problemas Comunes
 
+**Falta instalar módulo venv**
+- Esto es necesario en distribuciones basadas en Debian/Ubuntu
+- Ejecuta: `sudo apt install python3-venv`
+
 **Error: comando no encontrado**
 - Verifica que Python esté instalado: `python --version`
 
